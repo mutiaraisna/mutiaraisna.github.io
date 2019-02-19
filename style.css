@@ -1,0 +1,16 @@
+body{background-color: #F5DEB3;}
+		    header{
+  background-color: rgba(255, 99, 71, 1);
+  padding: 30px;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  font-family: capture it
+}
+			h2{font-family: Bradley Hand ITC;
+			font-size: 200%;
+			text-align: center;}
+			h3{font-family: Century Gothic;
+				font-size: 120%}
+			h5{text-align: center;}
+			p{font-family: Comic Sans MS;}
